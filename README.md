@@ -1,3 +1,5 @@
+# Course Project: EE 769: Introduction to Machine Learning
+
 # For the wine dataset (both red and white)
 This code performs several tasks related to analyzing and modeling white-wine data:
 
